@@ -1,0 +1,17 @@
+{
+    "name": "james/mvc_framework",
+    "authors": [
+        {
+            "name": "James Williams",
+            "email": "jameswilliamsmdl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
